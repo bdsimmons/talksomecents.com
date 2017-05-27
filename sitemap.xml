@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hugo.spf13.com/blog/my-budget-story-continues/</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.spf13.com/blog/my-budget-story-continued/</loc>
+    <lastmod>2017-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hugo.spf13.com/blog/my-budget-story/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,13 +23,13 @@
   
   <url>
     <loc>http://hugo.spf13.com/blog/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hugo.spf13.com/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
