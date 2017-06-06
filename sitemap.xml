@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://talksomecents.com/blog/a-review-of-budget-apps/</loc>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://talksomecents.com/blog/my-budget-story-continues/</loc>
     <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -23,13 +28,13 @@
   
   <url>
     <loc>http://talksomecents.com/blog/</loc>
-    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://talksomecents.com/</loc>
-    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
